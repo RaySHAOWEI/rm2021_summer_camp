@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>rm2021_summer_camp</name>
+  <name>turtle_launch</name>
   <version>0.0.0</version>
-  <description>The rm2021_summer_camp package</description>
+  <description>The turtle_launch package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-
   <maintainer email="ray@todo.todo">ray</maintainer>
 
 
@@ -20,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/rm2021_summer_camp</url> -->
+  <!-- <url type="website">http://wiki.ros.org/turtle_launch</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->
@@ -55,6 +54,6 @@
   <!-- The export tag contains other, unspecified, tags -->
   <export>
     <!-- Other tools can request additional information be placed here -->
-    <metapackage/>
+
   </export>
 </package>
